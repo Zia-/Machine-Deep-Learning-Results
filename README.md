@@ -624,7 +624,11 @@ Collection of Machine and Deep Learning Results based on public as well as priva
         -   Gradient Boosted Regression Trees (GBRT)
         -   Random Forest
 
-  
+----------
+
+## **Activation Functions**
+
+<img width="581" alt="activation functions" src="https://user-images.githubusercontent.com/8036389/141693133-653d6504-e332-42c3-95de-b4d9972cc587.png">
 
 ----------
 
