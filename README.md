@@ -632,6 +632,13 @@ Collection of Machine and Deep Learning Results based on public as well as priva
 
 ----------
 
+## **Keras Model Layers Definition**
+
+<img width="539" alt="Screenshot 2021-11-17 at 19 56 26" src="https://user-images.githubusercontent.com/8036389/142264846-59d23800-f965-49c6-9faf-c8a362494a06.png">
+source: https://www.kaggle.com/apollo2506/ship-detection-using-faster-r-cnn-part-1
+
+----------
+
 ## **Tutorials**
 
 TensorFlow 2.0 - https://youtu.be/tPYj3fFJGjk
